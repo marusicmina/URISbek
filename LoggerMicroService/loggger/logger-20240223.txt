@@ -1,0 +1,9 @@
+2024-02-23 21:51:25.563 +01:00 [INF] The following message was received: SprintMicroService 	GetAllPhases	faze are successfully returned.
+2024-02-23 22:31:38.899 +01:00 [INF] The following message was received: SprintMicroService 	GetAllPhases	faze are successfully returned.
+2024-02-23 22:32:05.611 +01:00 [INF] The following message was received: SprintMicroService 	GetAllPhases	faze are successfully returned.
+2024-02-23 22:33:29.273 +01:00 [INF] The following message was received: SprintMicroService 	GetAllPhases	faze are successfully returned.
+2024-02-23 22:33:46.797 +01:00 [INF] The following message was received: SprintMicroService 	GetAllPhases	faze are successfully returned.
+2024-02-23 22:34:25.056 +01:00 [INF] The following message was received: SprintMicroService 	GetAllPhases	faze are successfully returned.
+2024-02-23 22:35:05.657 +01:00 [INF] The following message was received: SprintMicroService 	GetAllPhases	faze are successfully returned.
+2024-02-23 22:37:50.151 +01:00 [INF] The following message was received: SprintMicroService 	GetAllPhases	faze are successfully returned.
+2024-02-23 22:38:12.151 +01:00 [INF] The following message was received: SprintMicroService 	GetAllPhases	faze are successfully returned.

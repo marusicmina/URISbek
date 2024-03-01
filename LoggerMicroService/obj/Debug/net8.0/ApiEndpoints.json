@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "LoggerMicroService.Controllers.LoggerController",
+    "Method": "PostLogMessage",
+    "RelativePath": "api/logger",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "log",
+        "Type": "LoggerMicroService.Models.Log",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "PFSS69M2W/7LRWXx8XmH9kYBtK36CjXTIg9ZC1NYEVw=",
+  "Source": "LoggerMicroService",
+  "BasePath": "_content/LoggerMicroService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

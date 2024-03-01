@@ -1,0 +1,10 @@
+2024-02-26 01:56:45.681 +01:00 [INF] The following message was received: SprintMicroService 	GetAllPhases	Faza ne postoji.
+2024-02-26 02:08:27.226 +01:00 [INF] The following message was received: SprintMicroService 	GetAllSprints	Sprintovi su pronadjeni
+2024-02-26 02:08:48.755 +01:00 [INF] The following message was received: SprintMicroService 	CreateSprint	Sprint je uspesno kreiran.
+2024-02-26 14:10:34.005 +01:00 [INF] The following message was received: SprintMicroService 	GetAllPhases	Faza je uspesno pronadjena.
+2024-02-26 14:10:38.866 +01:00 [INF] The following message was received: SprintMicroService 	GetAllSprints	Sprintovi su pronadjeni
+2024-02-26 14:10:53.128 +01:00 [INF] The following message was received: SprintMicroService 	CreateSprint	Sprint je uspesno kreiran.
+2024-02-26 14:11:41.266 +01:00 [INF] The following message was received: SprintMicroService 	GetAllSprints	Sprintovi su pronadjeni
+2024-02-26 14:11:43.310 +01:00 [INF] The following message was received: SprintMicroService 	GetPhaseBySprintId	faza ne postoji.
+2024-02-26 14:11:45.292 +01:00 [INF] The following message was received: SprintMicroService 	GetPhaseBySprintId	faza je uspesno pronadjena.
+2024-02-26 14:11:49.913 +01:00 [INF] The following message was received: SprintMicroService 	DeleteSprint	Sprint je uspesno obrisan
